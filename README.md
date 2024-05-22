@@ -24,4 +24,4 @@
 
 4. **Liu, I., Yuting Xiao, Fangyuan Liu, Shuming Wu, Shiguang Ni (2022).** Assessing the Effectiveness of Using Chatbots for Positive Psychological Intervention: A Randomized Control Study. *Chinese Computer-Human Interface (CHI) Conference*.
 
-5. **Liu, I., Ni, S., & Peng, K. (2020).** Predicting Personality with Smartphone Cameras: A Pilot Study. *2020 IEEE International Conference on Human-Machine Systems (ICHMS)*, 1–6. (EI indexed)
+5. **Liu, I., Ni, S., & Peng, K. (2020).** Predicting Personality with Smartphone Cameras: A Pilot Study. *2020 IEEE International Conference on Human-Machine Systems (ICHMS)*, 1–6.
