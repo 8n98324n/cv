@@ -4,7 +4,7 @@
 
 ## 1. Published Journal Papers
 
-1. **Liu, I., Liu, F., Xiao, Y., Huang, Y., Wu, S., & Ni, S. (2024).** Investigating the Key Success Factors of Chatbot-Based Positive Psychology Intervention with Retrieval-and Generative Pre-Trained Transformer (GPT)-Based Chatbots. *International Journal of Human–Computer Interaction*, 1-12.
+1. **Liu, I., Liu, F., Xiao, Y., Huang, Y., Wu, S., & Ni, S. (2024).** Investigating the Key Success Factors of Chatbot-Based Positive Psychology Intervention with Retrieval-and Generative Pre-Trained Transformer (GPT)-Based Chatbots. *International Journal of Human–Computer Interaction*, 1-12. [download link](https://github.com/8n98324n/cv/blob/main/Investigating%20the%20Key%20Success%20Factors%20of%20Chatbot-Based%20PPI.pdf)
 
 2. **Liu, I., Liu, I., Liu, F., Zhong, Q., Ma, F. & Ni, S. (2024).** Your blush gives you away: detecting hidden mental states with remote photoplethysmography and thermal imaging, *PeerJ Computer Science* 10:e1912 [download link](https://github.com/8n98324n/cv/blob/main/Your%20blush%20gives%20you%20away.pdf)
 
