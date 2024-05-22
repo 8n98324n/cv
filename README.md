@@ -4,15 +4,15 @@
 
 ## 1. Published Journal Papers
 
-1. **Liu, I., Liu, F., Xiao, Y., Huang, Y., Wu, S., & Ni, S. (2024).** Investigating the Key Success Factors of Chatbot-Based Positive Psychology Intervention with Retrieval-and Generative Pre-Trained Transformer (GPT)-Based Chatbots. *International Journal of Human–Computer Interaction*, 1-12. (SSCI indexed, 2022 JCR Q1)
+1. **Liu, I., Liu, F., Xiao, Y., Huang, Y., Wu, S., & Ni, S. (2024).** Investigating the Key Success Factors of Chatbot-Based Positive Psychology Intervention with Retrieval-and Generative Pre-Trained Transformer (GPT)-Based Chatbots. *International Journal of Human–Computer Interaction*, 1-12.
 
-2. **Liu, I., Liu, I., Liu, F., Zhong, Q., Ma, F. & Ni, S. (2024).** Your blush gives you away: detecting hidden mental states with remote photoplethysmography and thermal imaging, *PeerJ Computer Science* 10:e1912 [https://doi.org/10.7717/peerj-cs.1912](https://doi.org/10.7717/peerj-cs.1912) (SCI indexed, 2022 JCR Q2)
+2. **Liu, I., Liu, I., Liu, F., Zhong, Q., Ma, F. & Ni, S. (2024).** Your blush gives you away: detecting hidden mental states with remote photoplethysmography and thermal imaging, *PeerJ Computer Science* 10:e1912 [download link](https://github.com/8n98324n/cv/blob/main/Your%20blush%20gives%20you%20away.pdf)
 
-3. **Hou, H, Liu, I., Kong, F., and Ni, S.** (Accepted) Computational Positive Psychology: Advancing the Science of Wellbeing in the Digital Era. *Journal of Positive Psychology*, accepted. (Co-first author, SSCI indexed, 2022 JCR Q1)
+3. **Hou, H, Liu, I., Kong, F., and Ni, S.** (Accepted) Computational Positive Psychology: Advancing the Science of Wellbeing in the Digital Era. *Journal of Positive Psychology*, accepted.
 
-4. **Liu, I., Ni, S., & Peng, K. (2020).** Happiness at your fingertips: Assessing mental health with smartphone photoplethysmogram-based heart rate variability analysis. *Telemedicine and e-Health*, 26(12), 1483–1491. (SCI indexed, 2022 JCR Q1)
+4. **Liu, I., Ni, S., & Peng, K. (2020).** Happiness at your fingertips: Assessing mental health with smartphone photoplethysmogram-based heart rate variability analysis. *Telemedicine and e-Health*, 26(12), 1483–1491.
 
-5. **Liu, I., Ni, S., & Peng, K. (2020).** Enhancing the robustness of smartphone photoplethysmography: A signal quality index approach. *Sensors*, 20(7), 1923. (SCI indexed, 2022 JCR Q2)
+5. **Liu, I., Ni, S., & Peng, K. (2020).** Enhancing the robustness of smartphone photoplethysmography: A signal quality index approach. *Sensors*, 20(7), 1923.
 
 ## 2. Published Conference Papers
 
